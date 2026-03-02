@@ -1,14 +1,18 @@
-# Spaceship Horror Demo
+# Megabonk Roguelike
 
 ## Project Overview
-This project is a spaceship horror game where players must navigate a dark and eerie environment filled with tension and suspense. In this game, synthetics are programmed to seek out an unknown organic lifeform that poses a threat to the spaceship and its inhabitants. 
-
-As players explore the haunting corridors of the ship, they will encounter various challenges and puzzles that must be solved to understand the backstory of the lifeform and the synthetics' purpose. The atmosphere is thick with dread and uncertainty, keeping players on edge as they uncover the truth behind the horrors lurking in the shadows.
+A low-poly 3D roguelike game inspired by Megabonk. Explore procedurally generated environments, battle quirky enemies, and collect power-ups as you push for a high score in each run.
 
 ### Key Features
-- Immersive gameplay with a gripping narrative
-- Tension-filled environment crafted for horror enthusiasts
-- Engaging puzzles and challenges related to the storyline
-- Stunning visuals and sound design to enhance the horror experience
+- Low-poly 3D art style
+- Procedurally generated levels
+- Roguelike progression with permadeath
+- Variety of enemies, items, and upgrades
+- Fast-paced, replayable gameplay
 
-Join us in the voyage into the unknown!
+## Getting Started
+1. Open the project in Unity 6000.3.10f1 or later.
+2. Open the main scene and press Play to start a run.
+
+## Contributing
+Pull requests and feedback are welcome!
